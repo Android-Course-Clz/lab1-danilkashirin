@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Social Profile</string>
+    <string name="avatar_description">Profile photo</string>
+    <string name="followers">Followers</string>
+    <string name="following">Follows</string>
+    <string name="posts">Posts</string>
+    <string name="follow">Follow</string>
+    <string name="message">Messages</string>
+    <string name="_0">0</string>
+    <string name="image_description">Post image</string>
+    <string name="like_button_description">Like post</string>
+    <string name="comment_button_description">Add comment</string>
+    <string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="your_comment">Your comment</string>
+</resources>
